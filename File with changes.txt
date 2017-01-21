@@ -1,4 +1,3 @@
-Testing changes
 
 Trying to create conflict- check
 Someting must happen in changes
